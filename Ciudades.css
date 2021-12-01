@@ -1,0 +1,38 @@
+
+#contenedor{
+            width: 900px;
+            height: 76;
+            background:  #5A5A5A;
+            margin: 0.5em auto;
+            padding: 0.5em;
+            text-align: left;
+            color: white;
+            font-family: Roboto;
+            font-size: 24px;
+
+}
+
+#contenedor1{
+            width: 900px;
+            height: 257px;
+            background: #C4C4C4;
+            padding: 0.5em;
+            position: absolute;
+            top: 65px;
+            text-align: center;
+            font-family: Roboto;
+            font-size: 48px;
+            right: 310px;
+            line-height: 200px;
+     
+}
+
+
+
+
+
+
+    
+
+
+
