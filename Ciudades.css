@@ -27,6 +27,77 @@
      
 }
 
+.caja1{
+       background-color: cornflowerblue; 
+       width: 182px;
+       height: 180px;
+       float: right;
+       top: 300px; 
+       position: relative;
+       right: 700px;
+}
+
+.caja2{
+    background-color: darkgoldenrod;
+    width: 182px;
+    height: 180px;
+    float: right;
+    top: 300px; 
+    position: relative;
+    right: 333px;
+    
+}
+
+.caja3{
+    background-color: brown; 
+    width: 182px;
+    height: 180px;
+    float: right;
+    top: 300px; 
+    position: relative;
+    right: -35px;
+    
+}
+
+.caja4{
+    background-color: green;
+    width: 182px;
+    height: 180px;
+    float: left;
+    top: 500px; 
+    position: relative;
+    right: -700px;
+    
+}
+
+.caja5{
+    background-color: grey;
+    width: 182px;
+    height: 180px;
+    float: left;
+    top: 500px; 
+    position: relative;
+    right: -705px;
+    
+}
+
+.caja6{
+    background-color: hotpink;
+    width: 182px;
+    height: 180px;
+    float: left;
+    top: 500px; 
+    position: relative;
+    right: -710px;
+    
+}
+
+
+
+
+
+
+
 
 
 
